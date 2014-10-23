@@ -1,7 +1,6 @@
 img{width:650px;}
 img{height:650px;}
-header{margin:auto;}
+header{text-align:center;}
 footer{text-align:center;}
 img{border:10px solid black;}
-header{border:10px solid blue;}
-footer{border:10px solid blue;}
+span{border:10px solid blue;}
