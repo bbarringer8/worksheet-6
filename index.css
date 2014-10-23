@@ -2,3 +2,6 @@ img{width:650px;}
 img{height:650px;}
 header{text-align:center;}
 footer{text-align:center;}
+img{border:50px solid black;}
+header{border:50px solid black;}
+footer{border:50px solid black;}
