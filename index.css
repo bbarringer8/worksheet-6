@@ -6,3 +6,4 @@ img{border:10px solid black;}
 span{border:5px solid black;}
 span{margin:15px 15px 15px 15px;}
 body {background-color:#360;}
+img:hover{max-width:800px;max-height:800px;}
