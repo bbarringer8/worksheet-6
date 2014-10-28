@@ -7,3 +7,4 @@ span{border:5px solid black;}
 span{margin:15px 15px 15px 15px;}
 body {background-color:#360;}
 img:hover{max-width:100px;max-height:100px;}
+img{display:block;}
