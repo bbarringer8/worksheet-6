@@ -6,5 +6,5 @@ img{border:10px solid black;}
 span{border:5px solid black;}
 span{margin:15px 15px 15px 15px;}
 body {background-color:#360;}
-img:hover{max-width:100px;max-height:100px;}
+img:hover{margin:250px auto 250px auto; max-width:100px;max-height:100px;}
 img{display:block;}
